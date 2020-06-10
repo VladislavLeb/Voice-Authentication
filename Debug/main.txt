@@ -1,0 +1,10 @@
+C:\Users\Vlad\Desktop\диплом\fft\fft\fftprog\Debug\rostislav.txt
+woman1.txt
+woman2.txt
+C:\Users\Vlad\Desktop\диплом\fft\fft\fftprog\Debug\rostislav2.txt
+C:\Users\Vlad\Desktop\диплом\fft\fft\fftprog\Debug\rostislav3.txt
+C:\Users\Vlad\Desktop\диплом\fft\fft\fftprog\Debug\vlad1.txt
+C:\Users\Vlad\Desktop\диплом\fft\fft\fftprog\Debug\vlad2.txt
+C:\Users\Vlad\Desktop\диплом\fft\fft\fftprog\Debug\anya1.txt
+C:\Users\Vlad\Desktop\диплом\fft\fft\fftprog\Debug\anya2.txt
+C:\Users\Vlad\Desktop\диплом\fft\fft\fftprog\Debug\vlad3.txt

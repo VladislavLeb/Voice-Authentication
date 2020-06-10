@@ -1,0 +1,4 @@
+Rostislav.txt
+Girl1.txt
+Girl2.txt
+C:\Users\Vlad\Desktop\диплом\fft\fft\fftprog\fftprog\Vladislav.txt
